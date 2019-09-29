@@ -1,0 +1,51 @@
+[{
+    "id": 1,
+    "name": "Le Duc Tho",
+    "tel": "3873846470",
+    "permission": 1
+  }, {
+    "id": 2,
+    "name": "Bui Thi Hong Nhung",
+    "tel": "1841445404",
+    "permission": 1
+  }, {
+    "id": 3,
+    "name": "Vu Thi May",
+    "tel": "8909375191",
+    "permission": 1
+  }, {
+    "id": 4,
+    "name": "Le Van Hoi",
+    "tel": "7055065492",
+    "permission": 2
+  }, {
+    "id": 5,
+    "name": "Le Diep Anh",
+    "tel": "3456774844",
+    "permission": 2
+  }, {
+    "id": 6,
+    "name": "Le Duc Tai",
+    "tel": "2061579052",
+    "permission": 3
+  }, {
+    "id": 7,
+    "name": "Le Cat Hai Duong",
+    "tel": "8492275018",
+    "permission": 3
+  }, {
+    "id": 8,
+    "name": "Jennette Brumbie",
+    "tel": "6222677715",
+    "permission": 3
+  }, {
+    "id": 9,
+    "name": "Nickey Baggiani",
+    "tel": "5804798239",
+    "permission": 3
+  }, {
+    "id": 10,
+    "name": "Aubry Wordesworth",
+    "tel": "5971888526",
+    "permission": 1
+  }]
